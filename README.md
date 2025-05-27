@@ -17,6 +17,9 @@ Dummy Data: To test out new analysis methods or models.
 Training Data: To build models that can automatically classify sentiment for new feedback.
 Market Analysis: To understand how customers feel about each product and help make better business decisions.
 
+![Screenshot 2025-05-27 144734](https://github.com/user-attachments/assets/53048d95-fcf0-43de-8ba4-5c23c4923a1e)
+
+
 code: https://www.kaggle.com/code/defaultujijk/business-decision-analysis-sentiment-identify/edit
 
 dataset: https://www.kaggle.com/datasets/defaultujijk/dataset-netizen-indonesian-sentiment-review1
